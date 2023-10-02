@@ -4,7 +4,7 @@
 Hi 👋 My name is Gut Tharada Tienkeur
 =====================================
 
-Now! bootcamp Full stack develoment at WeStride.
+I'm new Developer | Now! bootcamp Full stack develoment at WeStride.
 ------------------------------------------------
 
 *   🌍  I'm based in Bangkok,Thailand
