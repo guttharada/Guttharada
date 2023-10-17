@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FBA131&background=000000&center=true&vCenter=true&multiline=true&width=500&height=70&lines=console.log("Hello world"))](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FBA131&background=000000&center=true&vCenter=true&multiline=true&width=500&height=70&lines=HELLO+WORLD+!)](https://git.io/typing-svg)
 
 Hi 👋 My name is Gut Tharada Tienkeur
 =====================================
