@@ -4,7 +4,7 @@
 Hi 👋 My name is Gut Tharada Tienkeur
 =====================================
 
-I'm Frontend Developer | Now! bootcamp Full stack development at WeStride.
+I'm Frontend Developer | Now! bootcamp Full stack development 
 ------------------------------------------------
 
 *   🌍  I'm based in Bangkok,Thailand
