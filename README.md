@@ -11,7 +11,5 @@ I'm Frontend Developer | Now! bootcamp Full stack development
 *   ✉️  You can contact me at [guttharada.developer@gmail.com](mailto:guttharada.developer@gmail.com)
 <p align="left">
 
-                    </p>
-                    Socials
-<p align="left"> <a href="https://www.github.com/guttharada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+  
               
