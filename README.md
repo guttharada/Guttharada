@@ -4,7 +4,7 @@
 Hi 👋 My name is Gut Tharada Tienkeur
 =====================================
 
-I'm Frontend Developer | So Now! I'm bootcamp Full stack development 
+I'm Frontend Developer 
 ------------------------------------------------
 
 *   Portfolio : https://portfolio-guttharada.onrender.com
