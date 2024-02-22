@@ -4,7 +4,7 @@
 Hi 👋 My name is Gut Tharada Tienkeur
 =====================================
 
-I'm Frontend Developer 
+I'm Frontend Developer | Web developer
 ------------------------------------------------
 
 *   Portfolio : https://portfolio-guttharada.onrender.com
