@@ -8,7 +8,7 @@ I'm Frontend Developer | Web Designer
 ------------------------------------------------
 
 *   Portfolio : https://portfolio-guttharada.onrender.com
-*   Linkedin : https://www.linkedin.com/in/gut-tharada-ab609929b
+*   Linkedin : https://www.linkedin.com/in/gttrd
 *   ✉️  You can contact me at [guttharada.developer@gmail.com](mailto:guttharada.developer@gmail.com)
 *   🌍  I'm based in Bangkok,Thailand
 <p align="left">
