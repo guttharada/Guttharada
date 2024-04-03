@@ -13,9 +13,9 @@ My go to tech-stack:
 *  bootstrap 5
 *  Jquery
 *  MUI / MUI dataGrid
-*  TailwindCSS
 *  Figma
-------------------------------------------------
+  
+Connect with me:
 
 *   Portfolio : https://portfolio-guttharada.onrender.com
 *   Linkedin : https://www.linkedin.com/in/gttrd
