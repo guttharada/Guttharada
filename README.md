@@ -1,8 +1,20 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FBA131&background=000000&center=true&vCenter=true&multiline=true&width=500&height=70&lines=HELLO+WORLD+!)](https://git.io/typing-svg)
+Hey there, I'm Gut
 
+I am a frontend developer and web designer.
 
-I'm Frontend Developer | Web Designer
+My go to tech-stack:
+
+HTML
+CSS 
+JavaScript
+TypeScript
+React.js
+bootstrap 5
+Jquery
+MUI / MUI dataGrid
+TailwindCSS
+Figma
 ------------------------------------------------
 
 *   Portfolio : https://portfolio-guttharada.onrender.com
