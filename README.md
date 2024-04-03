@@ -5,16 +5,16 @@ I am a frontend developer and web designer.
 
 My go to tech-stack:
 
-HTML
-CSS 
-JavaScript
-TypeScript
-React.js
-bootstrap 5
-Jquery
-MUI / MUI dataGrid
-TailwindCSS
-Figma
+*  HTML
+*  CSS 
+*  JavaScript
+*  TypeScript
+*  React.js
+*  bootstrap 5
+*  Jquery
+*  MUI / MUI dataGrid
+*  TailwindCSS
+*  Figma
 ------------------------------------------------
 
 *   Portfolio : https://portfolio-guttharada.onrender.com
