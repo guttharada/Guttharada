@@ -12,7 +12,7 @@ My go to tech-stack:
 *  React.js
 *  bootstrap 5
 *  Jquery
-*  MUI / MUI dataGrid
+*  MUI 
 *  Figma
   
 Connect with me:
