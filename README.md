@@ -1,7 +1,7 @@
 
 Hey there, I'm Gut
 
-I am a frontend developer and web designer.
+I am a frontend developer and UXUI designer.
 
 My go to tech-stack:
 
