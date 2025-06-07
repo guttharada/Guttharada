@@ -17,7 +17,6 @@ My go to tech-stack:
   
 Connect with me:
 
-*   Portfolio : https://portfolio-guttharada.onrender.com
 *   Linkedin : https://www.linkedin.com/in/gttrd
 *   ✉️  You can contact me at [guttharada.developer@gmail.com](mailto:guttharada.developer@gmail.com)
 *   🌍  I'm based in Bangkok,Thailand
